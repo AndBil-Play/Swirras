@@ -10828,7 +10828,7 @@ exports.chainet = {
 };
 
 // TANK UPGRADE PATHS
-exports.basic.UPGRADES_TIER_1 = ["twin", "sniper", "machineGun", "flankGuard", "director", "pounder", "trapper", "single", "lancer", "fakebasic", "desmos", "streamlined", "whirlwind", "smasher", "healer", "banker", "air"];
+exports.basic.UPGRADES_TIER_1 = ["twin", "sniper", "machineGun", "flankGuard", "director", "pounder", "trapper", "single", "lancer", "fakebasic", "desmos", "streamlined", "whirlwind", "smasher", "healer", "banker", /*"air"*/];
         exports.smasher.UPGRADES_TIER_3 = ["megaSmasher", "spike", "autoSmasher", "landmine"];
         //exports.healer.UPGRADES_TIER_3 = ["medic", "ambulance", "surgeon", "paramedic", "connected", /*"swiss"*/]
 		exports.paramedic.UPGRADES_TIER_3 = ["intruder"]
